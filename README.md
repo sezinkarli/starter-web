@@ -21,4 +21,4 @@ this is deploy section
 
 ## Copyright
 
-this is copyright
+this is copyright. All rights reserved.
