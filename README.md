@@ -1,10 +1,10 @@
 # Starter Web Project
 
-This is a simple website. New text added here. Then more changes from myfeature.
+This is a simple website. Then more changes from myfeature.
 
 ## Introduction
 
-this is intro
+this is intro. emergency fix
 
 ## Purpose
 
