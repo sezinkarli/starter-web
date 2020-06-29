@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sezin	asda@asd.com	@sezin
 
 # THANKS
 
