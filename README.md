@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website. New text added here.
+This is a simple website. New text added here. Then more changes from myfeature.
 
 ## Introduction
 
