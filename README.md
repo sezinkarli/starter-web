@@ -10,6 +10,11 @@ this is intro
 
 this is purporse
 
+
+## How to contirnute
+
+this is contrirbuete
+
 ## Deployment
 
 this is deploy section
